@@ -54,7 +54,7 @@ with st.container():
         </p>
         <p style="margin-bottom:0;">
         <b>Rice Husk Ash (RHA)</b>, a by-product of rice milling, can partially
-        replace cement in concrete &mdash; reducing both cost and the carbon
+        replace cement in concrete ; reducing both cost and the carbon
         footprint of construction, provided its effect on strength and
         durability is well understood. This app packages five machine-learning
         models, each trained on an experimental RHA-blended concrete dataset,
