@@ -49,7 +49,7 @@ with st.container():
         <p style="margin-bottom:0;">
         <bMACHINE-LEARNING ANALYSIS OF MECHANICAL AND DURABILITY PROPERTIES OF RICE-HUSK-ASH BLENDED 
         CONCRETEMACHINE-LEARNING ANALYSIS OF MECHANICAL AND DURABILITY PROPERTIES OF 
-        RICE-HUSK-ASH BLENDED CONCRETE(RHA)</b>, this a thesis project supervised by  <b>Lt Col Md Jahidul Islam</b>.
+        RICE-HUSK-ASH BLENDED CONCRETE(RHA)</b>this a thesis project supervised by  <b>Lt Col Md Jahidul Islam</b>.
         </p>
         </div>
         """,
