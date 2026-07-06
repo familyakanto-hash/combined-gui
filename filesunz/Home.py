@@ -120,7 +120,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 # ----------------------------------------------------------------- Sub-menu
 if st.session_state.category == "mechanical":
     st.markdown("---")
-    st.markdown("#### \U0001F9F1 Mechanical Properties \u2014 choose a property")
+    st.markdown("#### \U0001F9F1 Mechanical Properties")
     m1, m2, m3 = st.columns(3)
     with m1:
         if st.button("Compressive Strength", use_container_width=True, key="go_comp"):
@@ -134,7 +134,7 @@ if st.session_state.category == "mechanical":
 
 elif st.session_state.category == "durability":
     st.markdown("---")
-    st.markdown("#### \U0001F6E1\uFE0F Durability Properties \u2014 choose a property")
+    st.markdown("#### \U0001F6E1\uFE0F Durability Properties")
     d1, d2 = st.columns(2)
     with d1:
         if st.button("Water Absorption (28-day)", use_container_width=True, key="go_wa"):
