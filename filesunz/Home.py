@@ -44,23 +44,12 @@ with st.container():
         f"""
         <div class="category-card" style="margin-bottom:1.6rem;">
         <p style="margin-bottom:0.6rem;">
-        The <b>Department of Civil Engineering at MIST</b> trains engineers to
-        design and build resilient, sustainable infrastructure, with a growing
-        focus on applying data-driven and computational methods alongside
-        traditional structural and materials engineering. This toolkit is one
-        outcome of that direction: an undergraduate thesis exploring how
-        machine learning can accelerate the study of alternative, more
-        sustainable construction materials.
+        <b>Department of Civil Engineering at MIST</b>
         </p>
         <p style="margin-bottom:0;">
-        <b>Rice Husk Ash (RHA)</b>, a by-product of rice milling, can partially
-        replace cement in concrete ; reducing both cost and the carbon
-        footprint of construction, provided its effect on strength and
-        durability is well understood. This app packages five machine-learning
-        models, each trained on an experimental RHA-blended concrete dataset,
-        into a single interactive toolkit. For any of the five properties
-        below, you can either <b>predict the property from a mix design</b>,
-        or <b>work backward from a target value to a set of candidate mixes</b>.
+        <bMACHINE-LEARNING ANALYSIS OF MECHANICAL AND DURABILITY PROPERTIES OF RICE-HUSK-ASH BLENDED 
+        CONCRETEMACHINE-LEARNING ANALYSIS OF MECHANICAL AND DURABILITY PROPERTIES OF 
+        RICE-HUSK-ASH BLENDED CONCRETE(RHA)</b>, this a thesis project supervised by  <b>Lt Col Md Jahidul Islam</b>.
         </p>
         </div>
         """,
