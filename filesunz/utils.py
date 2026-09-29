@@ -17,13 +17,22 @@ COLORS = {
     "bg":          "#F7F8F7",
     "card_bg":     "#FFFFFF",
     "text_dark":   "#1C2B2A",
-    "text_muted":  "#5A6663",
+    "text_muted":  "#4A5565",
 }
 
 
 def inject_base_css():
     st.markdown(f"""
     <style>
+    .category-card {{ background:#FFFFFF; color:#1B2430; }}
+.category-title {{ color:#1F3A5F !important; font-weight:700; }}
+.category-desc {{ color:#4A5565 !important; }}
+.pill-mech {{ background:#E3EAF3; color:#1F3A5F !important; }}
+.pill-dur {{ background:#E1EEE9; color:#1E4D40 !important; }}
+.st-key-btn_mech button {{ background:#1F3A5F !important; border:none; }}
+.st-key-btn_dur button {{ background:#2F5D50 !important; border:none; }}
+.st-key-btn_mech button p,
+.st-key-btn_dur button p {{ color:#FFFFFF !important; }}
         /* ---------- smooth fade-in for every page ---------- */
         @keyframes fadeInUp {{
             from {{ opacity: 0; transform: translateY(10px); }}
