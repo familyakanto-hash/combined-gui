@@ -41,21 +41,17 @@ st.markdown("<br>", unsafe_allow_html=True)
 # ----------------------------------------------------------------- About blurb
 with st.container():
     st.markdown(
-        f"""
-        <div class="category-card" style="margin-bottom:1.6rem;">
-        <p style="margin-bottom:0.6rem;">
-        <b>Akanto DasT</b>
-        <b>Department of Civil Engineering, MIST</b>
-        </p>
-        <p style="margin-bottom:0;">
-        <bMACHINE-LEARNING ANALYSIS OF MECHANICAL AND DURABILITY PROPERTIES OF RICE-HUSK-ASH BLENDED 
-        CONCRETEMACHINE-LEARNING ANALYSIS OF MECHANICAL AND DURABILITY PROPERTIES OF 
-        RICE-HUSK-ASH BLENDED CONCRETE(RHA)</b>
-        </p>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
+    """
+    <div class="category-card" style="margin-bottom:1.6rem;">
+      <p style="margin-bottom:0.4rem;"><b>Akanto Das</b><br>
+      Department of Civil Engineering, MIST</p>
+      <p style="margin-bottom:0;">
+      <b>Machine-Learning Analysis of Mechanical and Durability Properties
+      of Rice-Husk-Ash (RHA) Blended Concrete</b></p>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 
 st.markdown(
     f"<h3 style='text-align:center;'>What would you like to explore?</h3>",
