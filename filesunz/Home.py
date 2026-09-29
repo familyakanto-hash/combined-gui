@@ -44,7 +44,8 @@ with st.container():
         f"""
         <div class="category-card" style="margin-bottom:1.6rem;">
         <p style="margin-bottom:0.6rem;">
-        <b>Department of Civil Engineering at MIST</b>
+        <b>Akanto DasT</b>
+        <b>Department of Civil Engineering, MIST</b>
         </p>
         <p style="margin-bottom:0;">
         <bMACHINE-LEARNING ANALYSIS OF MECHANICAL AND DURABILITY PROPERTIES OF RICE-HUSK-ASH BLENDED 
